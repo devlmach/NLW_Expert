@@ -3,12 +3,12 @@
 
 
 # Dependencies
-python 3.1+
-pip3
-Flask
-venv
-barcode
-pillow
-pre-commit 
-Cerberus (Validator)
-pytest
+ Python 3.1+
+ Pip3
+ Flask
+ Venv
+ Barcode
+ Pillow
+ Pre-commit 
+ Cerberus (Validator)
+ Pytest
